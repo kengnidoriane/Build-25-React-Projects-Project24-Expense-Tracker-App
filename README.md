@@ -1,18 +1,19 @@
-Voici un exemple de `README.md` que vous pouvez utiliser pour votre application de suivi des dépenses (Expense Tracker) réalisée avec React. Vous pouvez l’adapter en fonction des spécificités de votre projet.
-
-```markdown
 # Expense Tracker App
 
 Une application de suivi des dépenses construite avec React.
 
 ## Table des matières
 
-- [Aperçu](#aperçu)
-- [Fonctionnalités](#fonctionnalités)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-
+- [Expense Tracker App](#expense-tracker-app)
+  - [Table des matières](#table-des-matières)
+  - [Aperçu](#aperçu)
+  - [Fonctionnalités](#fonctionnalités)
+  - [Technologies](#technologies)
+  - [Installation](#installation)
+  - [Utilisation](#utilisation)
+  - [Contributions](#contributions)
+  - [License](#license)
+    - [Instructions](#instructions)
 
 ## Aperçu
 
